@@ -82,7 +82,3 @@ frontend/
   index.html
   package.json
 ```
-
-## License
-
-MIT
